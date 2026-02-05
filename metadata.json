@@ -1,0 +1,8 @@
+{
+  "name": "Aetheria: Infinite Horizons",
+  "description": "A massive persistent online platform for exploration, social interaction, and creative building, powered by community-driven content and AI-assisted design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
